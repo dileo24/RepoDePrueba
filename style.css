@@ -1,0 +1,25 @@
+.property-card {
+	margin-bottom: 20px;
+	transition: transform 0.3s;
+}
+.property-card:hover {
+	transform: scale(1.03);
+}
+.property-img {
+	height: 200px;
+	object-fit: cover;
+}
+.navbar {
+	margin-bottom: 30px;
+}
+.contact-form {
+	background-color: #f8f9fa;
+	padding: 30px;
+	border-radius: 10px;
+	margin-bottom: 30px;
+}
+footer {
+	padding: 20px 0;
+	background-color: #343a40;
+	color: white;
+}
